@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CenteredIconButton">
+        <attr name="cib_drawableTint" format="color"/>
+        <attr name="cib_drawablePadding" format="dimension"/>
+    </declare-styleable>
+</resources>
